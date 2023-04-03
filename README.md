@@ -1,5 +1,5 @@
 <div align="center">
-🎓 Análise e Desenvolvimento de Sistemas. 🌱 Estudando JavaScript.
+🌱 Desenvolvedor Front End. 🎓 Análise e Desenvolvimento de Sistemas.
 </div>
 <br>
 
