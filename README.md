@@ -1,5 +1,5 @@
 <div align="center">
-🌱 Desenvolvedor Front End. 🎓 Análise e Desenvolvimento de Sistemas.
+🌱 Desenvolvedor Web Full Stack. 🎓 Análise e Desenvolvimento de Sistemas.
 </div>
 <br>
 
