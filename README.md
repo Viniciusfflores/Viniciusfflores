@@ -89,11 +89,6 @@ const viniciusFlores = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusfflores&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusfflores&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Viniciusfflores&theme=tokyonight&border_radius=10&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true" alt="GitHub Streak" />
 </div>
 
